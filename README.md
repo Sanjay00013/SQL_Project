@@ -32,7 +32,7 @@ I implemented the following SQL techniques in this project:
 ### 📸 Project Screenshots
 Here are some key screenshots showcasing different SQL concepts applied in the project:
 
- **Complex Join Queries** – Demonstrated relationships between multiple tables.
+![image](https://github.com/user-attachments/assets/6fcbb97d-b12e-457c-a1bf-afb21cd4de98)
 
 
 
